@@ -5,7 +5,7 @@
 
  ### **docker-compose run cipher**
 
- т.к. в программе присутствует пользовательский ввод из консоли!
+ т.к. в программе присутствует пользовательский ввод из консоли, который невозможен при docker-compose up!
  
  
- [Скриншот 21-10-2023 232758](https://github.com/ErrorDa/merkle-hellman-Docker-Compose/assets/99288583/94e96ac6-914b-43c6-9fad-e7eae9d7acb5)
+Вот [фото](https://github.com/ErrorDa/merkle-hellman-Docker-Compose/assets/99288583/94e96ac6-914b-43c6-9fad-e7eae9d7acb5) из Power Shell, как доказательство.
