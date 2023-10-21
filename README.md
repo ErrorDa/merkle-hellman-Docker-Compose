@@ -1,4 +1,4 @@
-# merkle-hellman-Docker-Compose
+# Merkle-Hellman-Docker-Compose
 Реализация шифра Меркла-Хеллмана на Python c применением Docker compose.
 
 ## Запуск приложения
