@@ -1,9 +1,9 @@
 # merkle-hellman-Docker-Compose
 Реализация шифра Меркла-Хеллмана на Python c применением Docker compose.
-ВНИМАНИЕ!!
+
 ## Запускать через комманду
 
- ### **docker-compose run cipher**
+  **docker-compose run cipher**
 
  т.к. в программе присутствует пользовательский ввод из консоли, который невозможен при docker-compose up!
  
